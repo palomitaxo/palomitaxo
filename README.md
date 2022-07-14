@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @palomitaxo
-- 👀 I’m interested in fitness
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on ANYTHING <3
+- 🌱 Major CS Minor SE
 - 📫 How to reach me: palomarodriguez1234@gmail.com
 
 <!---
