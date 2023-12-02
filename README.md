@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @palomitaxo
-- 🌱 Major CS Minor SE
+- 👋 Hi, I’m Paloma Rodriguez!
+- 🌱 Major CS Minor SWE
 - 📫 How to reach me: palomarodriguez1234@gmail.com
 
 <!---
